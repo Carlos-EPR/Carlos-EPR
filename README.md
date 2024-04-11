@@ -32,14 +32,9 @@
   <div>
     <a href="https://github.com/Carlos-EPR">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-epr&layout=compact&theme=radical"/>
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielaalmeiida&show_icons=true&theme=omni"> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-epr&show_icons=true&theme=dark">
   </a>
   </div>
 </div>
 
-<!-- Gif
-<br>
-<div align="center">
-    <img height="120em" src="https://openseauserdata.com/files/6fc9db7cd1096f7a3f65930286db687a.gif">
-</div>
--->
+
