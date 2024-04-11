@@ -32,7 +32,8 @@
   <div>
     <a href="https://github.com/Carlos-EPR">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-epr&layout=compact&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-epr&show_icons=true&theme=dark">
+    <br>
+    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-epr&show_icons=true&theme=dark">-->
   </a>
   </div>
 </div>
